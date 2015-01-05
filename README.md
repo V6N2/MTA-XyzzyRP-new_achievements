@@ -7,7 +7,8 @@ Poprawki dla kilku obecnych osiągnięć oraz dodanie paru nowych
 Obecne osiągnięcia
 ============================
 
--Pierwsza godzina na serwerze</br>[2]Strongman
+-Pierwsza godzina na serwerze
+-Strongman
 -Pędziwiatr
 -Stały bywalec
 -Pierwszy tysiąc
